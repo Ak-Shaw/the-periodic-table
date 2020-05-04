@@ -1,0 +1,187 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.clear{
+    clear: both;
+}
+
+.period{
+    width: 2100px;
+    margin-top: 10px;
+}
+
+.elementSymbol{
+    position: relative;
+    left: 35px;
+    bottom: 15px;
+    font-size: 35px;
+}
+.elementCell{
+    margin-left: 5px;
+    width: 100px;
+    border-bottom-right-radius: 80%;
+    padding-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    float: left;
+}
+
+.atomicNum{
+    float: right;
+}
+
+.otherNonmetal{
+    background-color: #C3DFA4;
+
+}
+
+.nobleGas{
+    background-color: #ED1A3B;
+}
+
+.alkaliMetal{
+    background-color: #009A5A;
+}
+
+.alkalineEarthMetal{
+    background-color: #0065B3;
+}
+
+.halogen{
+    background-color: #FCDAB5;
+}
+
+.metalloid{
+    background-color: #17BED0;
+}
+
+.postTransitionMetal{
+    background-color: #FFCB05;
+}
+
+.transitionMetal{
+    background-color: #522E92;
+}
+
+.lanthanides{
+    background-color: hotpink;
+}
+
+.lanthanidesAtomicNumFontColor{
+    color: #cea35c;
+}
+
+.actinides{
+    background-color: #edd0ec;
+}
+
+.actinidesAtomicNumFontColor{
+    color: blueviolet;
+}
+
+.unknown{
+    background-color: #a7db5e;
+}
+
+.unknownAtomicNumFontColor{
+    color: aqua;
+}
+
+.transitionMetalAtomicNumFontColor{
+    color: #B5D868;
+}
+
+.postTransitionMetalAtomicNumFontColor{
+    color: #EE7C7F;
+}
+
+.metalloidAtomicNumFontColor{
+    color: #17BED0;
+}
+
+.halogenAtomicNumFontColor{
+    color: #FDD22E;
+}
+
+.alkalineEarthMetalAtomicNumFontColor{
+    color: #B1B2B4;
+}
+
+.otherNonmetalAtomicNumFontColor{
+    color: orange;
+}
+
+.nobleGasAtomicNumFontColor{
+    color: plum;
+}
+
+.alkaliMetalAtomicNumFontColor{
+    color: #EAB5D3;
+}
+
+.invisibility{
+    opacity: 0;
+}
+
+#marginTop{
+    height: 100px;
+}
+
+#periodicTable{
+    margin: 100px;
+    margin-bottom: 200px;
+}
+
+.elementCellMini{
+    margin-left: 2.5px;
+    width: 50px;
+    border-bottom-right-radius: 70%;
+    padding-left: 5px;
+    float: left;
+}
+
+#index{
+    margin: 100px;
+    width: 2000px;
+    height: 300px;
+}
+
+.floatLeft{
+    float: left;
+}
+.indexText{
+    text-indent: 30px;
+    font-size: 150%;
+    color: #522E92;
+    width: 250px;
+    margin: 0;
+}
+
+.indexElement{
+    float: left;
+}
+
+.gap{
+    height: 20px;
+}
+
+.indentText{
+    margin-left: 30px;
+}
+
+.borderLeft{
+    border-left: 1px solid #522E92;
+    height: 150px;
+}
+
+#heading{
+    font-size: 500%;
+    width: 520px;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-radius: 10%;
+    text-align: center;
+    font-weight: bolder;
+}
